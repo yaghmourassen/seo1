@@ -91,10 +91,11 @@ section {
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 
 .img-containerbc img, .img-containerbc2 img, .img-containerlc1 img, .img-containerlc2 img {
-    margin: 90px;
+  margin-top: 90px;
 }
 
 footer {
