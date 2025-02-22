@@ -92,10 +92,12 @@ section {
     justify-content: center;
     align-items: center;
     
+    
 }
 
 .img-containerbc img, .img-containerbc2 img, .img-containerlc1 img, .img-containerlc2 img {
-  margin-top: 90px;
+  margin: 90px;
+  
 }
 
 footer {
@@ -175,6 +177,10 @@ footer {
         flex-direction: column;
         align-items: center;
     }
+    .img-containerbc img, .img-containerbc2 img, .img-containerlc1 img, .img-containerlc2 img {
+        margin: auto;
+        margin-top: 90px;
+      }
 }
 
 @media (min-width: 768px) {
