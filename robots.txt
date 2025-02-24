@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yaghmourassen.github.io/seo1/sitemap.xml
